@@ -929,10 +929,10 @@
                 "enabled": false,
                 "statusToSet": "dnd"
             },
-            "dre-BadgeSelector": {
+            "plyz-BadgeSelector": {
                 "enabled": false
             },
-            "dre-CleanCord": {
+            "plyz-CleanCord": {
                 "enabled": true,
                 "onlyHideInStream": false,
                 "suppressionMode": "on",
@@ -942,14 +942,14 @@
                 "hiddenServers": "[]",
                 "hiddenFolders": "[]"
             },
-            "dre-DeafenBlacklist": {
+            "plyz-DeafenBlacklist": {
                 "enabled": true,
                 "blacklistedUsers": ""
             },
-            "dre-DeleteFriend": {
+            "plyz-DeleteFriend": {
                 "enabled": true
             },
-            "dre-FollowUser": {
+            "plyz-FollowUser": {
                 "enabled": true,
                 "onlyManualTrigger": false,
                 "followUserId": "",
@@ -958,15 +958,15 @@
                 "autoMoveBack": false,
                 "channelFull": true
             },
-            "dre-MuteAndDeafen": {
+            "plyz-MuteAndDeafen": {
                 "enabled": true,
                 "autoMute": true
             },
-            "dre-MuteBlacklist": {
+            "plyz-MuteBlacklist": {
                 "enabled": true,
                 "blacklistedUsers": ""
             },
-            "dre-PlatformSpoof": {
+            "plyz-PlatformSpoof": {
                 "enabled": true,
                 "plateforme": "windows",
                 "platform": "vr",
@@ -974,21 +974,21 @@
                 "platformCanary": "desktop",
                 "platformPTB": "desktop"
             },
-            "dre-PlaybackSpeed": {
+            "plyz-PlaybackSpeed": {
                 "enabled": true,
                 "defaultAudioSpeed": 1,
                 "defaultVoiceMessageSpeed": 1,
                 "defaultVideoSpeed": 1
             },
-            "dre-Scheduler": {
+            "plyz-Scheduler": {
                 "enabled": true,
                 "showNotifications": true
             },
-            "dre-VoiceBlacklist": {
+            "plyz-VoiceBlacklist": {
                 "enabled": true,
                 "blacklistedUsers": ""
             },
-            "dre-VoiceTools": {
+            "plyz-VoiceTools": {
                 "enabled": true,
                 "waitAfter": 5,
                 "waitSeconds": 2
@@ -996,41 +996,41 @@
             "MoreQuickReactions": {
                 "enabled": false
             },
-            "dre-FiveMQuery": {
+            "plyz-FiveMQuery": {
                 "enabled": true,
                 "serverCode": "6avyk7"
             },
-            "dre-DMChecker": {
+            "plyz-DMChecker": {
                 "enabled": true
             },
-            "dre-TokenChecker": {
+            "plyz-TokenChecker": {
                 "enabled": true,
                 "token": "MzI3OTIyODU1Mjc2NzA3ODQz.G5mvLd.2mhZS4iHV_8lsoueOXWoEVhzN8qEsGq0MhH82U"
             },
-            "dre-BadgeAdd": {
+            "plyz-BadgeAdd": {
                 "enabled": true
             },
-            "dre-deletedm": {
+            "plyz-deletedm": {
                 "enabled": true
             },
             "HideMessage": {
                 "enabled": false,
                 "hiddenMessages": {}
             },
-            "dre-FirstMessage": {
+            "plyz-FirstMessage": {
                 "enabled": true
             },
             "CustomCommands": {
                 "enabled": false
             },
-            "dre-VRSpoof": {
+            "plyz-VRSpoof": {
                 "enabled": true
             },
             "DmMessageLogger": {
                 "enabled": true,
                 "format": "json"
             },
-            "dre-MessageLogger": {
+            "plyz-MessageLogger": {
                 "enabled": true,
                 "format": "json",
                 "ShowKurdistanButton": true,
@@ -1064,16 +1064,16 @@
                 "attachmentFileExtensions": "png,jpg,jpeg,gif,webp,mp4,webm,mp3,ogg,wav",
                 "preserveCurrentChannel": true
             },
-            "dre-messageLogger": {
+            "plyz-messageLogger": {
                 "enabled": true
             },
-            "dre-Login": {
+            "plyz-Login": {
                 "enabled": true
             },
-            "dre-DMSearch": {
+            "plyz-DMSearch": {
                 "enabled": true
             },
-            "dre-BotLogin": {
+            "plyz-BotLogin": {
                 "enabled": true
             },
             "[WIP] EditUsers": {
@@ -1094,7 +1094,7 @@
             "ConcatenatedComponentExtractor": {
                 "enabled": true
             },
-            "dre-FontLoader": {
+            "plyz-FontLoader": {
                 "enabled": true,
                 "selectedFont": "",
                 "applyOnCodeBlocks": false
@@ -1141,14 +1141,14 @@
             "HeaderBarAPI": {
                 "enabled": true
             },
-            "dre-LastActivate": {
+            "plyz-LastActivate": {
                 "enabled": true
             },
-            "dre-FakeMuteDeafen": {
+            "plyz-FakeMuteDeafen": {
                 "enabled": true,
                 "autoMute": true
             },
-            "dre-SecretLanguage": {
+            "plyz-SecretLanguage": {
                 "enabled": true
             }
         },
